@@ -1,3 +1,5 @@
+//using chess.js, ejs and socket.io
+
 const express = require("express");
 const socket = require("socket.io");        //socket is used to connect realtime
 const http = require("http");
